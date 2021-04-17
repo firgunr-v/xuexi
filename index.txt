@@ -1,3 +1,4 @@
 hello git
 git xiugai
 xuexi
+wechatappkey='123'
