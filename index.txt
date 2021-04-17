@@ -1,4 +1,4 @@
 hello git
 git xiugai
 xuexi
-alikey='yyy'
+wechatappkey='123'
